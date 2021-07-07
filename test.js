@@ -6,4 +6,4 @@ function add(a) {
     return sum
 }
 
-console.log(add([4, 5, 6]))
+console.log(add([4, 5, 6, 7]))
